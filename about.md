@@ -10,7 +10,7 @@ header-img: "img/green.jpg"
 
 # 联系方式
 
-*   Email：6146864@qq.
+*   Email：6146864@qq.com
 *   QQ/微信号：6146864/15022204654
 
 * * *
