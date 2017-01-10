@@ -4,7 +4,11 @@ header-img: "img/facebook.jpg"
 tagline: "cn"  
 description: "绿阳|Think Different"  
 baseurl: ""
-url: “http://lvyang521.cn” 
+url: “https://lvyang521.github.io/” 
+# About/contact
+owner: 
+  name: "绿阳"
+  email: 6146864@qq.com” 
 
 # About/contact
 owner: 
