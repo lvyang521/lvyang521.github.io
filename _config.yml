@@ -1,8 +1,8 @@
 # Site settings
-title: Hanson
+title: 绿阳大叔
 header-img: "img/facebook.jpg"
 tagline: "cn"  
-description: "Hanson|Think Different"  
+description: "绿阳|Think Different"  
 baseurl: ""
 url: "http://lvyang521.github.io"  
 
@@ -43,17 +43,16 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      author: "hanson"
+      author: "绿阳"
       header-img: "img/facebook.jpg" # We don't want posts without a header image, that whould mean white on white
 
 # Comments 
 comments :
   provider : duoshuo
   duoshuo :
-    short_name : hanson
+    short_name : 绿阳
   disqus :
-      short_name : hanson
-
+      short_name : 绿阳
 # Analytics and webmaster tools stuff goes here
 google_analytics: 
 google_verify:
