@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "About"
-description: "my name is Hanson Zhang.On my way to change"
+description: "my name is Lv Yang.On my way to change"
 header-img: "img/green.jpg"
 ---
 
@@ -10,17 +10,17 @@ header-img: "img/green.jpg"
 
 # 联系方式
 
-*   Email：yuanpingzhang123@gmail.com
-*   QQ/微信号：835749634/张远平
+*   Email：6146864@qq.
+*   QQ/微信号：6146864/15022204654
 
 * * *
 
 # 个人信息
 
-*   张远平/男/1993
-*   本科/广东工业大学 
-*   技术博客: <http://www.myhanson.com>
-*   Github: <https://github.com/zyphs21>
-*   目前就职于：ZTESoft
+*   周世杰/男/1997
+*   专科/天津中德应用技术大学
+*   技术交流群: <https://jq.qq.com/?_wv=1027&k=43aXUfR>
+*   Github: <https://github.com/lvyang521>
+*   目前就职于：大学
 
 * * *
